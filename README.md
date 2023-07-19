@@ -163,6 +163,12 @@ Example:
 - Twitter: [@MarezegonZ](https://twitter.com/MarezegonZ)
 - LinkedIn: [Martin Ezequiel Gonzalez](https://www.linkedin.com/in/martin-ezequiel-gonzalez-30a413260/)
 
+👤 **Nylbert Victor**
+
+- GitHub: [@Nylbert Victor](https://github.com/redmarverick)
+- Twitter: [@Nylbert Victor](https://twitter.com/MarverickRed)
+- LinkedIn: [Nylbert Victor](https://www.linkedin.com/in/nylbert-victor-397951120/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
