@@ -26,4 +26,5 @@ def decode(sentence)
   output_sentence.chomp(' ')
 end
 
-decode('-- -.--   -. .- -- .')
+puts decode('-- -.--   -. .- -- .')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
